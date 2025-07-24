@@ -1,0 +1,10 @@
+---
+hidden: true
+---
+
+# Templates
+
+|   |
+| - |
+|   |
+|   |
