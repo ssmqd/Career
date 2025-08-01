@@ -1,8 +1,6 @@
 # Journey
 
-{% hint style="success" %}
-01.08.2025
-{% endhint %}
+> 01.08.2025
 
 | Topic Title              | Topic Objective                                        |
 | ------------------------ | ------------------------------------------------------ |
@@ -13,9 +11,7 @@
 | Network Components       | Explain the roles of network infrastructure devices.   |
 | ISP Connectivity Options | Describe ISP connectivity options.                     |
 
-{% hint style="success" %}
-29.07.2025
-{% endhint %}
+> 29.07.2025
 
 | Topic Title             | Topic Objective                                                                                |
 | ----------------------- | ---------------------------------------------------------------------------------------------- |
@@ -26,9 +22,7 @@
 | Risk Management         | Define risk management and its role in cybersecurity.                                          |
 | SIEM and DLP Systems    | Describe the purpose of SIEM and DLP in protecting organizational data.                        |
 
-{% hint style="success" %}
-25.07.2025
-{% endhint %}
+> 25.07.2025
 
 | Topic Title                           | Topic Objective                                                                                                                                 |
 | ------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
