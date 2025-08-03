@@ -1,5 +1,19 @@
 # Journey
 
+> 03.08.2025
+
+| Topic Title                      | Topic Objective                                                                |
+| -------------------------------- | ------------------------------------------------------------------------------ |
+| Home Network Basics              | Describe the components required to build a home network.                      |
+| Network Technologies in the Home | Describe wired and wireless network technologies.                              |
+| Wireless Standards               | Describe Wi-Fi.                                                                |
+| Set Up a Home Router             | Configure wireless devices for secure communications.                          |
+| Wireless Networks                | Describe the different types of network used by cell phones and mobile devices |
+| Mobile Device Connectivity       | Configure mobile devices for wireless connectivity                             |
+| Communication Protocols          | Describe network communication protocols                                       |
+| Communication Standards          | Describe network communication standards                                       |
+| Network Communication Models     | Compare the OSI to TCP/IP models                                               |
+
 > 01.08.2025
 
 | Topic Title              | Topic Objective                                        |
