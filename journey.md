@@ -1,5 +1,13 @@
 # Journey
 
+> 04.08.2025
+
+Decided to self analyze ISO model concept, mainly focusing on videos from [Drunk Engineer](https://www.youtube.com/watch?v=eKHCH6rw0As) channel. Fully watched all available content, and took notes and thought into my notebook.
+
+| Topic Title          | Topic Objective                          |
+| -------------------- | ---------------------------------------- |
+| Network  Media Types | Describe common types of network cables  |
+
 > 03.08.2025
 
 | Topic Title                      | Topic Objective                                                                |
