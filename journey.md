@@ -1,5 +1,14 @@
 # Journey
 
+> 05.08.2025
+
+| Topic Title                          | Topic Objective                                                   |
+| ------------------------------------ | ----------------------------------------------------------------- |
+| Encapsulation and the Ethernet Frame | Explain the process of encapsulation and Ethernet framing.        |
+| The Access Layer                     | Explain how to improve network communication at the access layer. |
+| Purpose of an IPv4                   | Explain the purpose of an IPv4 address                            |
+| The IPv4 Address Structure           | Explain how IPv4 addresses and subnets are sued together          |
+
 > 04.08.2025
 
 Decided to self analyze ISO model concept, mainly focusing on videos from [Drunk Engineer](https://www.youtube.com/watch?v=eKHCH6rw0As) channel. Fully watched all available content, and took notes and thought into my notebook.
