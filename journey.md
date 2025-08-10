@@ -1,5 +1,22 @@
 # Journey
 
+> 10.08.2025
+
+| Topic Title                   | Topic Objective                                               |
+| ----------------------------- | ------------------------------------------------------------- |
+| IPv4 Issues                   | Explain the need for IPv6 addressing.                         |
+| IPv6 Addressing               | Explain how to represent IPv6 addresses.                      |
+| Static and Dynamic Addressing | Compare static and dynamic IPv4 addressing                    |
+| DHCPv4 Configuration          | Configure a DHCPv4 server to dynamically asing IPv4 addresses |
+
+> 07.08.2025
+
+| Topic Title                            | Topic Objective                                                                              |
+| -------------------------------------- | -------------------------------------------------------------------------------------------- |
+| IPv4 Unicast, Broadcast, and Multicast | Compare the characteristics and uses of the unicast, broadcast and multicast IPv4 addresses. |
+| Types of IPv4 Addresses                | Explain public, private, and reserved IPv4 addresses.                                        |
+| Network Segmentation                   | Explain how subnetting segments a network to enable better communication.                    |
+
 > 05.08.2025
 
 | Topic Title                          | Topic Objective                                                   |
