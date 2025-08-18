@@ -1,5 +1,12 @@
 # Journey
 
+> 18.08.2025
+
+| Topic Title                 | Topic Objective                                                       |
+| --------------------------- | --------------------------------------------------------------------- |
+| Network Boundaries          | Describe network boundaries.                                          |
+| Network Address Translation | Explain the purpose of Network Address Translation in small networks. |
+
 > 10.08.2025
 
 | Topic Title                   | Topic Objective                                               |
