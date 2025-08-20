@@ -1,5 +1,20 @@
 # Journey
 
+> 20.08.2025
+
+| Topic Title          | Topic Objective                  |
+| -------------------- | -------------------------------- |
+| The Need for Routing | Explain the need for routing.    |
+| The Routing Table    | Explain how routers use tables.  |
+| Create a LAN         | Build a fully connected network. |
+
+> 19.08.2025
+
+| Topic Title           | Topic Objective                                                     |
+| --------------------- | ------------------------------------------------------------------- |
+| MAC and IP            | Compare the roles of the MAC address and the IP address.            |
+| Broadcast Containment | Explain why it is important to contain broadcasts within a network. |
+
 > 18.08.2025
 
 | Topic Title                 | Topic Objective                                                       |
